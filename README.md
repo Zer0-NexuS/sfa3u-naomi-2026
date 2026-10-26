@@ -33,6 +33,7 @@ Your original files remain unchanged. Everything needed for patching is built in
 
 **Graphics and presentation**
 
+- Multilingual / Region
 - Integrated the **PSP/MAX opening sequence**, with corrections to scrolling colors, name effects, and retained native artwork.
 - Corrected imported sprite palettes, flipped artwork, and animation references.
 - Repaired **Evil Ryu’s corrupted victory portrait allocation**.
