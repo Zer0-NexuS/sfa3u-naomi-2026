@@ -7,6 +7,9 @@
 ╚══════╝╚══════╝ ╚═════╝
 ```
 
+<img width="1912" height="1439" alt="image" src="https://github.com/user-attachments/assets/b8c4df2c-72cd-4e4e-93f4-c7643d68c967" />
+
+
 **How to use the patcher**
 
 1. Open **SFA3_UPPER_Patcher_R73.exe** on 64-bit Windows.
@@ -40,6 +43,7 @@ Your original files remain unchanged. Everything needed for patching is built in
 
 **Performance, controls, and sound**
 
+- Renders in SFA3 native resolution of 384 x 224 w/bilinear option to reduce (nearest).
 - Revised **input/JVS timing**. Recorded emulator checks measured a two-frame path—approximately **33.33 ms**—rather than a verified physical controller-to-screen figure.
 - Reworked rendering synchronization to address recurring slowdown in tested scenes.
 - Removed a configured **PowerVR memory overlap** associated with the hardware flicker investigation.
