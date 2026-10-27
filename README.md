@@ -9,6 +9,7 @@
 
 <img width="1912" height="1439" alt="image" src="https://github.com/user-attachments/assets/b8c4df2c-72cd-4e4e-93f4-c7643d68c967" />
 
+**WARNING: THIS BUILD CURRENTLY HAS A REGRESSION CAUSING IT TO LOCK UP DURING INTRO ON NAOMI HARDWARE**
 
 **How to use the patcher**
 
