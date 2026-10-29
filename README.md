@@ -1,4 +1,4 @@
-**DOWN FOR MAINTENANC**
+**DOWN FOR MAINTENANCE**
 
 ```text
 ███████╗██╗      ██████╗
