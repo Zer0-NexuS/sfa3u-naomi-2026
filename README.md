@@ -37,7 +37,7 @@ Your original files remain unchanged. Everything needed for patching is built in
 **Known issues**
 
 - D-Upper/Max characters are scaled slightly thinner horizontally (working fix).
-- Maki floating.
+- Maki floating after run to hop.
 - Sometimes slow-down.
 
 **What we changed from vanilla Street Fighter Zero 3 Upper**
