@@ -20,19 +20,23 @@
 
 **THE FOUR ADDED UPPER CHARACTERS AND GAME ENGINE MAY STILL HAVE BUGS. IF YOU ENCOUNTER ANY BUGS, PLEASE REPORT THEM HERE**
 
-**How to use the patcher**
+SFA3 UPPER C06 NETBOOT PATCHER — Windows 10/11 x64
 
-1. Open **SFA3_UPPER_Patcher_R73.exe** on 64-bit Windows.
-2. Click **select your rom files** and choose your unmodified **sfz3ugd ROM ZIP and CHD**. A zipped CHD or matching stock DAT is also supported.
-3. Click **select output folder**.
-4. Click **patch** and wait for the progress bar to finish.
-5. When **done** appears, your selected folder contains **SFZ3U26_R73.dat**.
+1. Extract the ZIP and run SFA3_UPPER_Patcher_C06.exe.
+2. Select sfz3ugd.zip and gdl-0002.chd together, or drag both into the window.
+   If they are in different folders, use the separate CHD button.
+   Alternatively choose Stock DAT / BIN and select your original stock image.
+3. Select your PSP Alpha 3 MAX game file (any regional version).
+4. Choose an output folder, then click Create BIN.
+
+Output: SFA3U_C06.bin
+Size: 188,612,608 bytes
 
 Your original files remain unchanged. Everything needed for patching is built into the executable.
 
 **Known issues**
 
-- D-Upper characters are scaled slightly thinner (working fix).
+- D-Upper/Max characters are scaled slightly thinner horizontally (working fix).
 - Maki floating.
 - Sometimes slow-down.
 
