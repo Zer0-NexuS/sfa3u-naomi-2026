@@ -13,7 +13,7 @@
 
 <img width="1922" height="1435" alt="C06_VMU" src="https://github.com/user-attachments/assets/864ccc77-b0d5-4b93-829a-0051e461a9eb" />
 
-<img width="640" height="480" alt="C06_Insert_VMU" src="https://github.com/user-attachments/assets/2bfb92b8-b294-4d30-8d90-4844438b0297" />
+<img width="640" height="480" alt="C06_Insert_VMU" src="https://github.com/user-attachments/assets/2bfb92b8-b294-4d30-8d90-4844438b0297" /> <img width="640" height="480" alt="C05_Operator_Menu" src="https://github.com/user-attachments/assets/ae50c697-8250-433e-ba26-c5a35a1817d6" />
 
 
 **WARNING: THIS BUILD IS NOT COMPATIBLE WITH ALL NAOMI HARDWARE. THIS IS STILL BEING INVESTIGATED**
