@@ -33,7 +33,7 @@ Your original files remain unchanged. Everything needed for patching is built in
 **What we changed from vanilla Street Fighter Zero 3 Upper**
 
 **Characters and gameplay**
-
+- Removed Upper Intro.
 - Updated Operator Menu (Hold Start for 3-seconds).
 - Added VMU Support in Eng.
 - Added **Eagle, Maki, Yun, and Ingrid**, using recovered Alpha 3 MAX/CFC2 character behavior, animations, voices, and effects.
