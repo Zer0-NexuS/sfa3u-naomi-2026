@@ -11,9 +11,14 @@
 
 <img width="1912" height="1439" alt="image" src="https://github.com/user-attachments/assets/b8c4df2c-72cd-4e4e-93f4-c7643d68c967" />
 
-**WARNING: THIS BUILD CURRENTLY HAS A REGRESSION CAUSING IT TO LOCK UP DURING INTRO ON NAOMI HARDWARE**
+<img width="1922" height="1435" alt="C06_VMU" src="https://github.com/user-attachments/assets/864ccc77-b0d5-4b93-829a-0051e461a9eb" />
 
-**THE FOUR ADDED UPPER CHARACTERS DO NOT HAVE FINAL LINKED ASSETS, E.G., AFTER BATTLE QUOTES, PORTRAITS, ETC. THOSE HAVE BEEN IMPLEMENTED BUT ARE STILL BEING LINKED**
+<img width="640" height="480" alt="C06_Insert_VMU" src="https://github.com/user-attachments/assets/2bfb92b8-b294-4d30-8d90-4844438b0297" />
+
+
+**WARNING: THIS BUILD IS NOT COMPATIBLE WITH ALL NAOMI HARDWARE. THIS IS STILL BEING INVESTIGATED**
+
+**THE FOUR ADDED UPPER CHARACTERS AND GAME ENGINE MAY STILL HAVE BUGS. IF YOU ENCOUNTER ANY BUGS, PLEASE REPORT THEM HERE**
 
 **How to use the patcher**
 
@@ -29,6 +34,8 @@ Your original files remain unchanged. Everything needed for patching is built in
 
 **Characters and gameplay**
 
+- Updated Operator Menu (Hold Start for 3-seconds).
+- Added VMU Support in Eng.
 - Added **Eagle, Maki, Yun, and Ingrid**, using recovered Alpha 3 MAX/CFC2 character behavior, animations, voices, and effects.
 - Added **Ingrid’s joint introduction with Blanka**.
 - Corrected **Yun’s walking animation** and an intro-selection bug that could lock up his match on Charlie’s stage.
