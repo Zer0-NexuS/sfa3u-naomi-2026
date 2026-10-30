@@ -65,7 +65,7 @@ Your original files remain unchanged. Everything needed for patching is built in
 
 **Performance, controls, and sound**
 
-- Renders in SFA3 native resolution of 384 x 224 w/bilinear option to reduce (nearest).
+- DEFERRED: Renders in SFA3 native resolution of 384 x 224 w/bilinear option to reduce (nearest).
 - Revised **input/JVS timing**. Recorded emulator checks measured a two-frame path—approximately **33.33 ms**—rather than a verified physical controller-to-screen figure.
 - Reworked rendering synchronization to address recurring slowdown in tested scenes.
 - Removed a configured **PowerVR memory overlap** associated with the hardware flicker investigation.
