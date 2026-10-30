@@ -16,7 +16,7 @@
 <img width="640" height="480" alt="C05_Operator_Menu" src="https://github.com/user-attachments/assets/ae50c697-8250-433e-ba26-c5a35a1817d6" />
 
 
-**WARNING: THIS BUILD IS NOT COMPATIBLE WITH ALL NAOMI HARDWARE. THIS IS STILL BEING INVESTIGATED**
+**THIS BUILD IS NOW COMPATIBLE WITH NAOMI HARDWARE. BIG, BIG THANKS TO LIAM S. FOR BEING INSTRUMENTAL IN TESTING**
 
 **THE FOUR ADDED UPPER CHARACTERS AND GAME ENGINE MAY STILL HAVE BUGS. IF YOU ENCOUNTER ANY BUGS, PLEASE REPORT THEM HERE**
 
@@ -29,6 +29,12 @@
 5. When **done** appears, your selected folder contains **SFZ3U26_R73.dat**.
 
 Your original files remain unchanged. Everything needed for patching is built into the executable.
+
+**Known issues**
+
+- D-Upper characters are scaled slightly thinner (working fix).
+- Maki floating.
+- Sometimes slow-down.
 
 **What we changed from vanilla Street Fighter Zero 3 Upper**
 
