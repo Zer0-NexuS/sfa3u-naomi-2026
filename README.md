@@ -36,6 +36,7 @@ Your original files remain unchanged. Everything needed for patching is built in
 **Known issues**
 
 - Random slow-down. *(Please report where and when)*
+- SH4 Exception(s) may appear, or endings may cause them for expanded characters.
 
 **What we changed from vanilla Street Fighter Zero 3 Upper**
 
