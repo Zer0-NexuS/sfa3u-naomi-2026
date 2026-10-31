@@ -13,8 +13,7 @@
 
 <img width="640" height="480" alt="C06_Insert_VMU" src="https://github.com/user-attachments/assets/2bfb92b8-b294-4d30-8d90-4844438b0297" />
 
-<img width="640" height="480" alt="C05_Operator_Menu" src="https://github.com/user-attachments/assets/ae50c697-8250-433e-ba26-c5a35a1817d6" />
-
+<img width="640" height="480" alt="download (1)" src="https://github.com/user-attachments/assets/56f36c3f-3c7e-45b5-ac56-3083f379059f" />
 
 **THIS BUILD IS NOW COMPATIBLE WITH NAOMI HARDWARE. BIG, BIG THANKS TO LIAM S. FOR BEING INSTRUMENTAL IN TESTING**
 
