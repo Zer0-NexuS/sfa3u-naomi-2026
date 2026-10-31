@@ -56,10 +56,8 @@ Your original files remain unchanged. Everything needed for patching is built in
 - Multilingual / Region
 - Corrected imported sprite palettes, flipped artwork, and animation references.
 - Repaired **Evil Ryu’s corrupted victory portrait allocation**.
-- Added **384×224 gameplay rendering**, scaled to a **640×480, 4:3 output**.
-- Kept **“LOADING GAME NOW…” at 640×480**, then switched to the gameplay rendering resolution.
-- Added a **DEBUG filter toggle**: hold either player’s Start for approximately three seconds, use Left/Right to change filtering, then release and press Start to close.
-- Set the build back to the **USA region**.
+- Added a **Operator Menu**: hold either player’s Start for approximately three seconds, use Left/Right to change filtering, then release and press Start to close.
+- Region Unlocked.
 
 **Performance, controls, and sound**
 
