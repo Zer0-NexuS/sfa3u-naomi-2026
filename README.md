@@ -28,8 +28,7 @@ SFA3 UPPER C11 NETBOOT PATCHER — Windows 10/11 x64
 3. Select your PSP Alpha 3 MAX game file (any regional version).
 4. Choose an output folder, then click Create BIN.
 
-Output: SFA3U_C06.bin
-Size: 188,612,608 bytes
+Output: SFA3U_C11.bin
 
 Your original files remain unchanged. Everything needed for patching is built into the executable.
 
