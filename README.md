@@ -19,7 +19,7 @@
 
 **THE FOUR ADDED UPPER CHARACTERS AND GAME ENGINE MAY STILL HAVE BUGS. IF YOU ENCOUNTER ANY BUGS, PLEASE REPORT THEM HERE**
 
-SFA3 UPPER C06 NETBOOT PATCHER — Windows 10/11 x64
+SFA3 UPPER C11 NETBOOT PATCHER — Windows 10/11 x64
 
 1. Extract the ZIP and run SFA3_UPPER_Patcher_C06.exe.
 2. Select sfz3ugd.zip and gdl-0002.chd together, or drag both into the window.
