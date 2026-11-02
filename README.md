@@ -18,7 +18,8 @@
 **THIS BUILD IS NOW COMPATIBLE WITH NAOMI HARDWARE. BIG, BIG THANKS TO LIAM S. FOR BEING INSTRUMENTAL IN TESTING**
 
 **THE FOUR ADDED UPPER CHARACTERS AND GAME ENGINE HAVE BEEN FULLY IMPLEMENTED AND ADUITED**
-~ two dialogue scenes were omitted due to memory constraints (although I'm still trying to make it work):
+
+~ *two dialogue scenes were omitted due to memory constraints (although I'm still trying to make it work)*:
 
    - Ingrid/Blanka: Blanka waits for an Ingrid auxiliary actor that the port never starts, causing the introduction to lock.
    - Maki/Rolento: Maki expects a PSP-specific Rolento counterpart routine missing from native NAOMI Rolento.
