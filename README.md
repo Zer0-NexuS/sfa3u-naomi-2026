@@ -17,11 +17,17 @@
 
 **THIS BUILD IS NOW COMPATIBLE WITH NAOMI HARDWARE. BIG, BIG THANKS TO LIAM S. FOR BEING INSTRUMENTAL IN TESTING**
 
-**THE FOUR ADDED UPPER CHARACTERS AND GAME ENGINE MAY STILL HAVE BUGS. IF YOU ENCOUNTER ANY BUGS, PLEASE REPORT THEM HERE**
+**THE FOUR ADDED UPPER CHARACTERS AND GAME ENGINE HAVE BEEN FULLY IMPLEMENTED AND ADUITED**
+~ two dialogue scenes were omitted due to memory constraints (although I'm still trying to make it work):
+
+   - Ingrid/Blanka: Blanka waits for an Ingrid auxiliary actor that the port never starts, causing the introduction to lock.
+   - Maki/Rolento: Maki expects a PSP-specific Rolento counterpart routine missing from native NAOMI Rolento.
+
+*IF YOU ENCOUNTER ANY BUGS, PLEASE REPORT THEM HERE*
 
 SFA3 UPPER C11 NETBOOT PATCHER — Windows 10/11 x64
 
-1. Extract the ZIP and run SFA3_UPPER_Patcher_C06.exe.
+1. Extract the ZIP and run SFA3_UPPER_Patche.exe.
 2. Select sfz3ugd.zip and gdl-0002.chd together, or drag both into the window.
    If they are in different folders, use the separate CHD button.
    Alternatively choose Stock DAT / BIN and select your original stock image.
