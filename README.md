@@ -26,9 +26,9 @@
 
 *IF YOU ENCOUNTER ANY BUGS, PLEASE REPORT THEM HERE*
 
-SFA3 UPPER C11 NETBOOT PATCHER — Windows 10/11 x64
+SFA3 UPPER RC3 PATCHER — Windows 10/11 x64
 
-1. Extract the ZIP and run SFA3_UPPER_Patche.exe.
+1. Extract the ZIP and run SFA3_UPPER_Patcher.exe.
 2. Select sfz3ugd.zip and gdl-0002.chd together, or drag both into the window.
    If they are in different folders, use the separate CHD button.
    Alternatively choose Stock DAT / BIN and select your original stock image.
