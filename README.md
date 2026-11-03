@@ -43,43 +43,24 @@ Your original files remain unchanged. Everything needed for patching is built in
 
 **What we changed from vanilla Street Fighter Zero 3 Upper**
 
-**Characters and gameplay**
-- Removed Upper Intro.
-- Updated Operator Menu (Hold Start for 3-seconds).
-- Added VMU Support in Eng.
-- Added **Eagle, Maki, Yun, and Ingrid**, using recovered Alpha 3 MAX/CFC2 character behavior, animations, voices, and effects.
-- Added **Ingrid’s joint introduction with Blanka**.
-- Corrected **Yun’s walking animation** and an intro-selection bug that could lock up his match on Charlie’s stage.
-- Replaced **T. Hawk’s backward-walk artwork** with his Sega Saturn animation, preserving movement speed, timing, and collision behavior.
-- Added **landing crouch cancel for aerial normals** by holding Down as the character lands.
-- Fixed **Ken and Evil Ryu incorrectly treating the four newcomers as Ryu** during special introductions, including Ken’s pre-match soft-lock.
+Street Fighter Alpha 3 Upper — NAOMI RC3 Update:
+------
+Added features
+- Added four playable fighters: Eagle, Maki, Yun, and Ingrid.
+- Added character-specific opening stories, rival encounters, dialogue, endings, victory quotes, and ranking artwork for the four fighters.
+- Restored crouch cancel as an Operator Menu option.
+- Added a VMU ON/OFF setting that stays active during gameplay.
 
-**Graphics and presentation**
+Fixes and polish
+- Fixed the delayed start of Gen’s stage music.
+- Fixed a crash during CPU-controlled Yun fights.
+- Fixed Yun’s 1P and 2P banner spacing on the character select screen.
+- Fixed two missing lines in Ingrid’s post-battle dialogue with Ryu and restored her pre-battle dialogue with M. Bison.
+- Restored the missing lower-body artwork in Ingrid’s ending.
+- Fixed pre-fight lockups in Ingrid vs. Blanka and Maki vs. Rolento by using their regular introductions.
+- Adjusted the title-screen prompts and credit line to clear the Capcom copyright text.
 
-- Multilingual / Region
-- Corrected imported sprite palettes, flipped artwork, and animation references.
-- Repaired **Evil Ryu’s corrupted victory portrait allocation**.
-- Added a **Operator Menu**: hold either player’s Start for approximately three seconds, use Left/Right to change filtering, then release and press Start to close.
-- Region Unlocked.
-
-**Performance, controls, and sound**
-
-- DEFERRED: Renders in SFA3 native resolution of 384 x 224 w/bilinear option to reduce (nearest).
-- Revised **input/JVS timing**. Recorded emulator checks measured a two-frame path—approximately **33.33 ms**—rather than a verified physical controller-to-screen figure.
-- Reworked rendering synchronization to address recurring slowdown in tested scenes.
-- Removed a configured **PowerVR memory overlap** associated with the hardware flicker investigation.
-- Reorganized audio caches and loading buffers to prevent memory collisions.
-- Integrated and adjusted the newcomers’ audio, repaired announcer-buffer conflicts, and corrected **Vega’s music-loading boundary**.
-
-**What’s changed in R73**
-
-- Added **Eagle, Maki, Yun, and Ingrid** to the NAOMI game.
-- Replaced **T. Hawk’s backward walk** with his Sega Saturn animation.
-- Fixed **Ken’s incorrect special intro** against the four added characters, which could prevent the match from starting.
-- Fixed **Evil Ryu’s incorrect Ryu-specific intro** against those characters.
-- Retained the **USA region**, existing input/latency patches, and display updates.
-
-**Remaining issues**
-
-- **Maki:** Certain moves have been reported to make her fly or disappear off-screen. This remains under investigation.
-- Earlier **Zangief V-ISM slowdown on hardware report** still needs confirmation against the current build.
+Builds and patchers
+- Available in 384×224 240p and 640×480 480p. Both builds include the shared gameplay and character fixes.
+- The 240p build uses native filtering and has a simplified Operator Menu.
+- Both Windows patchers work offline and accept a supported NAOMI ROM ZIP + CHD pair or a single DAT/BIN.
