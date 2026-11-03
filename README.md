@@ -35,8 +35,6 @@ SFA3 UPPER RC3 PATCHER — Windows 10/11 x64
 3. Select your PSP Alpha 3 MAX game file (any regional version).
 4. Choose an output folder, then click Create BIN.
 
-Output: SFA3U_C11.bin
-
 Your original files remain unchanged. Everything needed for patching is built into the executable.
 
 **Known issues**
@@ -45,11 +43,14 @@ Your original files remain unchanged. Everything needed for patching is built in
 
 Street Fighter Alpha 3 Upper — NAOMI RC3 Update:
 ------
-Added features
-- Added four playable fighters: Eagle, Maki, Yun, and Ingrid.
-- Added character-specific opening stories, rival encounters, dialogue, endings, victory quotes, and ranking artwork for the four fighters.
-- Restored crouch cancel as an Operator Menu option.
-- Added a VMU ON/OFF setting that stays active during gameplay.
+Added Features:
+Four new fighters. New arcade stories. Two ways to play on NAOMI.
+- Expanded roster. Imported from PSP; Play as Eagle, Maki, Yun, and Ingrid, each with their own moves, animations, portraits, character select graphics, and in-match nameplates.
+- New arcade routes. Explore character-specific opening stories, rival encounters, pre- and post-fight dialogue, boss sequences, and endings for the four added fighters.
+- More character detail. The new fighters have their own victory quotes, ranking artwork, and high-score names. Their integration covers A-ISM, V-ISM, and X-ISM.
+- Arcade operator controls. Toggle crouch cancel and VMU mode in the Operator Menu. The selected VMU mode stays active during gameplay.
+- Two display builds. Choose 384×224 /240p with native filtering or 640×480 /480p. Both versions include the shared character and gameplay fixes.
+- Offline Windows patchers. Build either version from a supported NAOMI ROM ZIP and CHD pair or a single DAT/BIN.
 
 Fixes and polish
 - Fixed the delayed start of Gen’s stage music.
