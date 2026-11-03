@@ -44,6 +44,7 @@ Your original files remain unchanged. Everything needed for patching is built in
 Street Fighter Alpha 3 Upper — NAOMI RC3 Update:
 ------
 Added Features:
+
 Four new fighters. New arcade stories. Two ways to play on NAOMI.
 - Expanded roster. Imported from PSP; Play as Eagle, Maki, Yun, and Ingrid, each with their own moves, animations, portraits, character select graphics, and in-match nameplates.
 - New arcade routes. Explore character-specific opening stories, rival encounters, pre- and post-fight dialogue, boss sequences, and endings for the four added fighters.
