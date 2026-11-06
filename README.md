@@ -53,7 +53,8 @@ Four new fighters. New arcade stories. Two ways to play on NAOMI.
 - Two display builds. Choose 384×224 /240p with native filtering or 640×480 /480p. Both versions include the shared character and gameplay fixes.
 - Offline Windows patchers. Build either version from a supported NAOMI ROM ZIP and CHD pair or a single DAT/BIN.
 
-Fixes and polish
+Fixed & Polished:
+
 - Fixed the delayed start of Gen’s stage music.
 - Fixed a crash during CPU-controlled Yun fights.
 - Fixed Yun’s 1P and 2P banner spacing on the character select screen.
@@ -62,7 +63,8 @@ Fixes and polish
 - Fixed pre-fight lockups in Ingrid vs. Blanka and Maki vs. Rolento by using their regular introductions.
 - Adjusted the title-screen prompts and credit line to clear the Capcom copyright text.
 
-Builds and patchers
+Builds and Patchers:
+
 - Available in 384×224 240p and 640×480 480p. Both builds include the shared gameplay and character fixes.
 - The 240p build uses native filtering and has a simplified Operator Menu.
 - Both Windows patchers work offline and accept a supported NAOMI ROM ZIP + CHD pair or a single DAT/BIN.
